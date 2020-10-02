@@ -1,5 +1,5 @@
 
-#import all the necessary modules
+#housing prediction first project through linear regression
 
 import pandas as p
 import numpy as n
