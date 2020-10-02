@@ -1,4 +1,4 @@
-###Linear Regression using Python
+###Linear Regression using Python :- Data Visualization
 ---
 #####A work as a part of my course named : Pattern Recognition.
 
